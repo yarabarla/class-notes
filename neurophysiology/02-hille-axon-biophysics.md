@@ -12,3 +12,4 @@
 * If you clamp the voltage at +67 mv and open sodium channels what will happen to the membrane current? Thre will be no net ion flow.
 # Slide 15
 * When clamped to 0 from -65mV, the inward deflection is Na+ coming in and the outward deflection is K+ going out
+# Up to Slide 21 for test 1
