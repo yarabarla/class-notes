@@ -26,7 +26,7 @@
 
 # 2015-09-10
 ## Slide 23- Current and Voltage Plots
-    * Slope is gradual increase in conductance.
+* Slope is gradual increase in conductance.
 
 ## Slide 24- Cell Membrane Time Constant
 * Use the risng or falling slope to find the time constant.
